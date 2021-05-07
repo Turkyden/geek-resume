@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/css/main.d5808382.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/main.7ad90b00.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/main.7ad90b00.chunk.js.map",
+    "main.js": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/main.13c00fa2.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/main.13c00fa2.chunk.js.map",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/runtime-main.22b296a2.js",
     "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/js/runtime-main.22b296a2.js.map",
     "static/css/2.66fb2a47.chunk.css": "https://cdn.jsdelivr.net/gh/turkyden/geek-resume@gh-pages/static/css/2.66fb2a47.chunk.css",
@@ -40,6 +40,6 @@
     "static/css/2.66fb2a47.chunk.css",
     "static/js/2.7910f527.chunk.js",
     "static/css/main.d5808382.chunk.css",
-    "static/js/main.7ad90b00.chunk.js"
+    "static/js/main.13c00fa2.chunk.js"
   ]
 }
